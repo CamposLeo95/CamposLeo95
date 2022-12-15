@@ -1,5 +1,16 @@
-<h3>Eai! Leo Campos aqui! 😎</h3>
-<p>💻 - Estudando Programação (momento)</p>
+<h3>Eai! Leo aqui! 😎</h3>
+<p>💻 - Estudando Programação </p>
+<h2> Um pouco de sobre mim </h2>
+<p> 
+  Estou em transição de carreira para a area de tecnologia, deixei meu antigo emprego, após me planejar muito bem, para me dedicar completamente 
+  para a area esta area. Por conta disso hoje posso me dedicar integralmente aos estudos da area
+</p>
+  Já estudei bacharel em tecnologia, entretanto não consegui me formar por contas de problemas financeiros. Então para que não deixasse os estudos 
+  parados me formei na area de Gestão de empresas em uma faculdade publica. Hoje, vejo que isso foi um ponto muito positivo em minha carreira
+  afinal hoje consigo estudar de forma autonoma a area que desejo e tenho uma bagagem academica que ainda mais no meu entendimento nesta area
+<p>
+ 
+</p>
 
 <a href="https://www.linkedin.com/in/leonardo-campos-bb746015b/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
