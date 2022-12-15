@@ -7,9 +7,10 @@
 
 <h3>📘 → Estudando no momento!</h3>
 <p>
-<img width="17em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> - Type Script <br>
-<img width="17em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> - React JS <br>
-<img width="17em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> - Sass
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> - Python <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> - SQL <br>
+
 
 </p>
 
