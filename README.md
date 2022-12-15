@@ -8,8 +8,8 @@
 <h3>📘 → Estudando no momento!</h3>
 <p>
 
-<img width="20em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> - Python <br>
-<img width="20em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> - SQL-Server <br>
+<img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> - Python <br>
+<img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> - SQL-Server <br>
 
 </p>
 
@@ -22,8 +22,8 @@
 
 <div align="center">
   
-<img width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-<img width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+<img width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 
 
