@@ -1,5 +1,5 @@
 <h3>Eai! Leo Campos aqui! 😎</h3>
-<p>💻 - Estudante de desenvolvimento Front-End (momento)</p>
+<p>💻 - Estudando Programação (momento)</p>
 
 <a href="https://www.linkedin.com/in/leonardo-campos-bb746015b/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -10,6 +10,8 @@
 
 <img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> - Python <br>
 <img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> - SQL-Server <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> - MySQL <br>
+
 
 </p>
 
@@ -24,6 +26,8 @@
   
 <img width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 <img width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+          
 </div>
 
 
