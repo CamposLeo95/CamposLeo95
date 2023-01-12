@@ -30,15 +30,6 @@
 
 
 </p>
-
-<div align="start">
-  <a href="https://github.com/rafaballerini">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CamposLeo95&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camposleo95&layout=compact&langs_count=7&theme=merko"/>
-</div>
-<br/><br/>
-
-<div align="center">
   
 <img width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 <img width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
