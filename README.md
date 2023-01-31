@@ -16,6 +16,7 @@
 </a>
 
 <h3>📘 → Estudando no momento!</h3>
+<hr>
 <p>
   
 <img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> - Javascript <br>
