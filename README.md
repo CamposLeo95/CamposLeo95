@@ -1,6 +1,6 @@
 <h3>Eai! Leo aqui! 😎</h3>
 <p>💻 - Estudando Programação </p>
-<h2> Um pouco de sobre mim </h2><br>
+<h2></h2><br>
 <p> 
   
 </p>
