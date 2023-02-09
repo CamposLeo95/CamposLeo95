@@ -1,21 +1,10 @@
 <h3>Eai! Leo aqui! 😎</h3>
-<p>💻 - Tecnologias</p>
-<h2></h2><br>
-<p> 
-  
-</p>
-<p>
-  
-</p>
-<p>
-  
-</p>
 
 <a href="https://www.linkedin.com/in/leonardo-campos-bb746015b/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<h3>📘 → Estudando no momento!</h3>
+<h3>💻 → Tecnologias!</h3>
 <hr>
 <p>
   
