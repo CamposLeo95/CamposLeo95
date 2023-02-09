@@ -1,5 +1,5 @@
 <h3>Eai! Leo aqui! 😎</h3>
-<p>💻 - Estudando Programação </p>
+<p>💻 - Tecnologias</p>
 <h2></h2><br>
 <p> 
   
