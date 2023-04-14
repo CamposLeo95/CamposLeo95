@@ -1,10 +1,14 @@
+
+<div align="center">
+   <img height="400px" width="100%" src="https://user-images.githubusercontent.com/98062615/232075004-6c129ed9-8ea5-41c2-bea3-32f41ac59d6a.png"/>
+</div>
 <h3>Eai! Leo aqui! 😎</h3>
 <hr>
 <p>
    → Sou Desenvolvedor software e procuro cada dia mais me aperfeiçoar nas tecnologias utilizadas no mercado. 
 </p>
 <p>
-  → Aqui subo minhas aulas, projetos e desafios que utilizo diariamente para me tornar um melhor desenvolvedor e tambem para compartilhar ideias as quais alguem um dia possa precisar!
+  → Estou em transição de carreira para a área de desenvolvimento de software. No momento, atuo como freelancer criando projetos utilizando tecnologias como JavaScript, TypeScript, React, Node e outras para criação dos meus projetos.
  </p>
 
  <br>
@@ -34,8 +38,10 @@
   
 
 <br><br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamposLeo95&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![Leo Campos](https://github-readme-stats.vercel.app/api?username=CamposLeo95&show_icons=true&theme=tokyonight)
+ 
 
 <br>
 <hr>
