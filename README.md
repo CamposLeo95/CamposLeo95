@@ -8,12 +8,15 @@
  </p>
 
  <br>
-<a href="mailto:leocampos.in@gmail.com">
+<a href="mailto:leocampos.in@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/leonardo-campos-bb746015b/">
+<a href="https://www.linkedin.com/in/leonardo-campos-bb746015b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://portifolio-rho-rust.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
 </a>
 
 <br><br>
@@ -23,22 +26,25 @@
 <br>
 <p>  
 <img width="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> → Javascript <br>
-<img width="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> → React JS - Learning...<br>
-<img width="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /> → NodeJS - Learning...<br>
-<img width="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> → SQL-Server - Learning...<br>
+<img width="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> → TypeScript <br>     
+<img width="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> → React JS <br>
+<img width="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /> → NodeJS <br>
+
 </p>
   
 
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamposLeo95&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-![Leo Campos](https://github-readme-stats.vercel.app/api?username=CamposLeo95&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamposLeo95&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Leo Campos](https://github-readme-stats.vercel.app/api?username=CamposLeo95&show_icons=true&theme=tokyonight)
 
 <br>
 <hr>
 <div align="center">
   <img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
   <img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />         
+  <img width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+   
 </div>
 
 
