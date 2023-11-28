@@ -39,9 +39,7 @@
 
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamposLeo95&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![Leo Campos](https://github-readme-stats.vercel.app/api?username=CamposLeo95&show_icons=true&theme=tokyonight)
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamposLeo95&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
 <br>
 <hr>
