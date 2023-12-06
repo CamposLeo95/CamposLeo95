@@ -29,12 +29,29 @@
 <hr>
 <br>
 <p>  
-<img width="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> → Javascript <br>
-<img width="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> → TypeScript <br>     
-<img width="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> → React JS <br>
-<img width="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /> → NodeJS <br>
+
 
 </p>
+
+<div>
+   <div>
+      <h3> Front-End </h3>
+     <img width="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> → Javascript <br>
+      <img width="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> → TypeScript <br>     
+      <img width="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> → React JS <br>
+      <img width="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /> → Redux <br>
+      <img width="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> → Tailwind <br>
+      <img width="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /> → Jest <br>
+   </div>
+   <br>
+   <div>
+      <h3> Back-End </h3>
+      <img width="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /> → NodeJS <br>
+      <img width="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> → Express
+      <img width="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> → Postgres <br>
+      <img width="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> → Docker <br>
+   </div>
+</div>
   
 
 <br><br>
@@ -43,13 +60,13 @@
 
 <br>
 <hr>
-<div align="center">
+<!-- <div align="center">
   <img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
   <img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
    
-</div>
+</div> -->
 
 
 
