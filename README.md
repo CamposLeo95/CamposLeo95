@@ -5,10 +5,14 @@
 <h3>Eai! Leo aqui! 😎</h3>
 <hr>
 <p>
-   → Sou Desenvolvedor software e procuro cada dia mais me aperfeiçoar nas tecnologias utilizadas no mercado. 
+   → Sou um desenvolvedor de software dedicado, apaixonado por aprimorar minhas habilidades e permanecer atualizado com as tecnologias mais recentes do mercado.
 </p>
 <p>
-  → Estou em transição de carreira para a área de desenvolvimento de software. No momento, atuo como freelancer criando projetos utilizando tecnologias como JavaScript, TypeScript, React, Node e outras para criação dos meus projetos.
+  → Atualmente exerço a função de desenvolvedor Front-End procurando me aperfeiçoar ainda mais buscando aprender novas tecnologias, boas pratisa e entendimentos cada vez mais profundos da área.
+ </p>
+
+ <p>
+  → Hoje estou buscando me aperfeiçoar como Full-stack, pois tenho a ambição de atuar em grandes projetos e enxergo que para isso devo entender ambas as partes do produto mesmo que atue no front ou back.
  </p>
 
  <br>
