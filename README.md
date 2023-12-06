@@ -47,7 +47,7 @@
    <div>
       <h3> Back-End </h3>
       <img width="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /> → NodeJS <br>
-      <img width="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> → Express
+      <img width="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> → Express <br>
       <img width="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> → Postgres <br>
       <img width="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> → Docker <br>
    </div>
