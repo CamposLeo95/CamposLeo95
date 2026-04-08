@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Hi! I'm Leo, a Mid-Level Front-end Developer from Brazil with Full Stack knowledge. I'm constantly improving my skills in various technologies to expand my expertise in the development ecosystem.<br><br><br>I''m currently working as a Front-end Developer, focused on TypeScript and React.<br><br>🌎 Experienced in Full Stack development, with knowledge in Node.js and databases.<br><br>📚 Currently, I'm practicing:<br><br>🐳 Docker<br><br>☁️ Google Cloud Platform (GCP)<br><br>🗄️ Databases<br><br>🧪 Automated Testing<br><br>🎮 In my free time, I enjoy:<br><br>Playing and watching games<br><br>Reading about new technologies and market trends</p>
+<p align="left">Hi! I'm Leo, a Fullstack Developer from Brazil with Full Stack knowledge. I'm constantly improving my skills in various technologies to expand my expertise in the development ecosystem.<br><br><br>I''m currently working as a Front-end Developer, focused on TypeScript and React.<br><br>🌎 Experienced in Full Stack development, with knowledge in Node.js and databases.<br><br>📚 Currently, I'm practicing:<br><br>🐳 Docker<br><br>☁️ Google Cloud Platform (GCP)<br><br>🗄️ Databases<br><br>🧪 Automated Testing<br><br>🎮 In my free time, I enjoy:<br><br>Playing and watching games<br><br>Reading about new technologies and market trends</p>
 
 ###
 
